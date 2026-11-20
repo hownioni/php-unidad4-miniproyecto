@@ -4,9 +4,9 @@ Sitio web dinámico en PHP que demuestra variables, tipos de datos, estructuras 
 
 ## Equipo
 
-- HitmanII1234
-- Kodegmxz
-- Hownioni
+- Enrique Alejandro Alvares Escobar
+- José Luis Gómez Gutiérrez
+- Sergio Luna Antón
 
 ## Materia
 
