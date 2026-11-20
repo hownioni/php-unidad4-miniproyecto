@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-labelledby="titulo">
+  <title id="titulo">Logo Programación Web Unidad 4</title>
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8892bf"/>
+      <stop offset="1" stop-color="#4f5b93"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Fondo -->
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="url(#fondo)" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+
+  <!-- Símbolo de código: < / > -->
+  <g fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="20,16 8,28 20,40"/>
+    <polyline points="40,16 52,28 40,40"/>
+    <line x1="34" y1="12" x2="26" y2="44"/>
+  </g>
+
+  <!-- Reloj: representa el tiempo activo de la sesión -->
+  <circle cx="48" cy="48" r="12" fill="#ffffff" stroke="#343c66" stroke-width="2.5"/>
+  <g stroke="#343c66" stroke-width="2.5" stroke-linecap="round">
+    <line x1="48" y1="48" x2="48" y2="41"/>
+    <line x1="48" y1="48" x2="53" y2="48"/>
+  </g>
+</svg>

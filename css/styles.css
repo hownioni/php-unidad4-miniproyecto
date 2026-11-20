@@ -61,12 +61,11 @@ a {
     text-decoration: none;
 }
 
-.logo__icono {
-    font-family: Consolas, "Courier New", monospace;
-    font-weight: bold;
-    background: rgba(255, 255, 255, 0.15);
-    padding: 4px 10px;
-    border-radius: 6px;
+.logo__imagen {
+    display: block;
+    width: 52px;
+    height: 52px;
+    flex-shrink: 0;
 }
 
 .logo__texto {

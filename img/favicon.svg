@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8892bf"/>
+      <stop offset="1" stop-color="#4f5b93"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Versión simplificada del logo para la pestaña del navegador -->
+  <rect width="64" height="64" rx="14" fill="url(#fondo)"/>
+  <g fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="21,18 8,32 21,46"/>
+    <polyline points="43,18 56,32 43,46"/>
+    <line x1="36" y1="14" x2="28" y2="50"/>
+  </g>
+</svg>

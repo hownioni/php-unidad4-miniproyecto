@@ -55,6 +55,8 @@ Desde el index (o desde `sesiones.php`) se puede **reiniciar** la sesión, que l
 │   ├── menu.php       # menú generado con foreach
 │   └── footer.php
 └── img/
+    ├── logo.svg       # logo del encabezado
+    └── favicon.svg    # ícono de la pestaña
 ```
 
 ## Ejecutar localmente

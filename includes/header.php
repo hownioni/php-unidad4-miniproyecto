@@ -19,13 +19,14 @@ if (!isset($titulo)) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo e($titulo); ?> | PHP Unidad 4</title>
+    <link rel="icon" type="image/svg+xml" href="img/favicon.svg">
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 <header class="encabezado">
     <div class="contenedor encabezado__contenido">
         <a href="index.php" class="logo">
-            <span class="logo__icono">&lt;?php</span>
+            <img class="logo__imagen" src="img/logo.svg" alt="Logo del proyecto" width="52" height="52">
             <span class="logo__texto">Programación Web &middot; Unidad 4</span>
         </a>
         <p class="encabezado__sub">Variables, estructuras de control, arreglos y sesiones</p>
