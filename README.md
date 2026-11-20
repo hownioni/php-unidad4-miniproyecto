@@ -70,4 +70,4 @@ Después abre <http://localhost:8000> en el navegador.
 ## Enlaces
 
 - Repositorio: <https://github.com/hownioni/php-unidad4-miniproyecto>
-- Sitio publicado: _(agregar enlace del hosting)_
+- Sitio publicado: <http://minipeweb4.infinityfree.io/index.php>
